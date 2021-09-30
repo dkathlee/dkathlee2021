@@ -22,7 +22,7 @@ pod 'dkathlee2021'
 
 ## Author
 
-CrushedElva, trumar97@mail.ru
+dkathlee, morozov2101@gmail.com
 
 ## License
 
